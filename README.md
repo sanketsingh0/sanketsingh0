@@ -21,8 +21,6 @@
 
 <br />
 
-<img align="right" src="https://github.com/sanketsingh0.png" width="280" height="280" alt="Sanket Singh" />
-
 ### 👨‍💻 Who I Am
 
 ```typescript
