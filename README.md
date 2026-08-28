@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=SANKET%20SINGH&fontSize=60&animation=twinkling&fontColor=00fff2&desc=%3C%20SYSTEM.INIT%20//%20DATA_SCIENCE_UNIT%20%3E&descAlignY=65&descSize=18&descColor=ff00e6" />
+<img src="./assets/hero-banner.svg" width="100%" alt="Sanket Singh — Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duplicate=false&pause=1000&color=00FFF2&center=true&vCenter=true&width=700&lines=%3E+BOOTING+DATA_SCIENCE.exe...;%3E+COMPILING+WEB_DEV_MODULES;%3E+RUNNING+PYTHON+%2B+SQL+PROTOCOLS;%3E+TEAM_LEAD+%40+SIH_MAINFRAME;%3E+STATUS%3A+ONLINE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duplicate=false&pause=1000&color=00FFF2&center=true&vCenter=true&width=700&lines=%3E+BOOTING+DATA_SCIENCE.exe...;%3E+COMPILING+WEB_DEV_MODULES;%3E+RUNNING+PYTHON+%2B+SQL+PROTOCOLS;%3E+TEAM_LEAD+%40+SIH_MAINFRAME;%3E+STATUS%3A+ONLINE" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanketsingh0&color=00fff2&style=for-the-badge&label=SCANS)
 ![Followers](https://img.shields.io/github/followers/sanketsingh0?color=ff00e6&style=for-the-badge&label=UPLINKS&logo=github&logoColor=white)
@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1500&color=FF00E6&center=true&vCenter=true&width=500&lines=%2F%2F+ACCESSING+CORE+IDENTITY+MODULE" />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=15&pause=1500&color=FF00E6&center=true&vCenter=true&width=500&lines=%2F%2F+ACCESSING+CORE_IDENTITY.dat" />
 </div>
 
 ### `>> WHO_I_AM.ts`
